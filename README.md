@@ -1,6 +1,12 @@
-# MermaidIFIC
+# ProcessFlow
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.11.
+This is a Process flow maker capable of dynamically changing the flow with data. It is to be used for IFIC bank's process of corporate cash management approval. Given the data from back end this application will read the data and create Mermaid.js specific syntax for graph rendering.
+
+# Techonologies used:
+
+-> Angular.js
+-> Mermaid.js
+-> Css 
 
 ## Development server
 
