@@ -1,0 +1,22 @@
+.parent{
+    background-color: white;
+    margin-top: -20px;
+    height:auto;
+}
+
+.mermaid_class{
+    padding:40px;
+    text-align: center;
+}
+
+.spinner-container {
+    height: 1060px;
+    width: 1090px;
+    position: fixed;
+  }
+  
+  .spinner-container mat-spinner {
+    margin-left:47vw;
+    margin-top:30vh;
+  }
+  

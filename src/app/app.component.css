@@ -1,0 +1,28 @@
+
+html,body,*{
+    margin-top: 0px;
+    padding:0;
+}
+
+
+.button_div{
+    width:100vw;
+    height:10vh;
+    margin-top:5vh;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.button{
+    width:200px;
+    height:8vh;
+    color:white;
+    font-size: 20px;
+    
+    border: none;
+    border-radius: 7px;
+}
+
+.button:hover{
+    background-color: #3893FA;
+}
